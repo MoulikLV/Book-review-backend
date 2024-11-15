@@ -1,0 +1,6 @@
+
+mongodb Username - elishaebe177
+mongodb password - xmCEeMn3VxpU31D3
+JWT_SECRET = YdYTlLuE
+
+Moulik token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MzVhMDkzN2I3Y2I1NzMxYjJiOTdjMiIsImlhdCI6MTczMTU2Nzc2NSwiZXhwIjoxNzM0MTU5NzY1fQ.2XkMI-UmEF_TSPvn8FqodgtPz3ffN3IYxhtaVBnVUxs
